@@ -1,0 +1,304 @@
+{
+  "business": {
+    "name": "Eagle Shield Roofing",
+    "phone": "(214) 555-0733",
+    "category": "roofing",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Dallas-Fort Worth's Trusted Roofing Experts",
+      "heroSubline": "From historic homes in McKinney to modern Frisco developments, we protect what matters most. Serving North Texas families since 2012 with honest assessments and durable solutions.",
+      "aboutTitle": "Our Story in Your Neighborhood",
+      "aboutText": [
+        "Eagle Shield Roofing began when founder Mark Reynolds noticed how Dallas' severe weather exposed homeowners to unnecessary risks. What started as a small crew repairing hail damage in Lake Highlands has grown into a 20+ team serving all of DFW.",
+        "We believe your roof is more than shingles—it's your family's first defense against Texas storms. That's why we use only premium materials rated for our climate and stand behind every installation with industry-leading warranties.",
+        "When we're not replacing roofs in Preston Hollow or repairing storm damage in Arlington, you'll find us sponsoring Little League teams and volunteering with Habitat for Humanity. This community raised us—we're proud to give back."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Weather Expertise",
+          "description": "We specify materials that stand up to Dallas' hail storms and summer heat waves, not generic national standards."
+        },
+        {
+          "title": "Historic Home Specialists",
+          "description": "From Bishop Arts bungalows to Highland Park Colonials, we preserve architectural character while upgrading protection."
+        },
+        {
+          "title": "Storm Response Team",
+          "description": "24/7 emergency repairs when tornadoes or ice storms hit, with direct insurance claims assistance."
+        },
+        {
+          "title": "No-Pressure Consultations",
+          "description": "Honest assessments about whether you need repairs or full replacement, with transparent pricing."
+        }
+      ],
+      "ctaHeadline": "Schedule Your Free Roof Evaluation",
+      "ctaSubline": "Our Dallas-based team will assess your roof's condition and explain all options with no obligation."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof system upgrades tailored to Dallas' extreme weather patterns.",
+        "description": "When those Plano hailstorms finally take their toll or your Arlington ranch home's original roof reaches its limit, we provide full roof replacements designed for North Texas conditions. Our process begins with a thorough inspection of your decking and ventilation—we often find improper attic airflow exacerbates heat damage in Dallas' 100° summers.\n\nFor historic homes in McKinney's downtown district, we specialize in matching period-appropriate materials like cedar shakes with modern underlayment. In newer Frisco developments, we install impact-resistant shingles that meet strict HOA requirements while providing superior hail protection. Every replacement includes our 10-year workmanship warranty on top of manufacturer coverage.",
+        "process": [
+          "Step 1: Comprehensive inspection including infrared moisture scans and attic assessment",
+          "Step 2: Customized material recommendations for your home's style and local weather risks",
+          "Step 3: Efficient tear-off with full debris containment and magnetized nail pickup",
+          "Step 4: Precision installation with attention to flashing details at chimneys and vents"
+        ],
+        "benefits": [
+          "Energy-efficient options to reduce AC costs in Texas heat",
+          "Class 4 impact-resistant shingles available for hail-prone areas",
+          "Preservation techniques for historic district compliance",
+          "Financing options with local credit unions"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need repairs or full replacement?",
+            "answer": "We evaluate multiple factors including shingle granule loss, moisture penetration in decking, and the age of your current roof. In Dallas' climate, most asphalt roofs need replacement by 12-15 years."
+          },
+          {
+            "question": "Will you help with my insurance claim?",
+            "answer": "Our DFW storm damage specialists document all hail/wind damage per carrier requirements and can meet with adjusters directly."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Emergency fixes and long-term solutions after North Texas' violent weather.",
+        "description": "When those spring squall lines roll through Frisco or a microburst hits Lake Highlands, we're the team Dallas homeowners call for prompt, professional storm damage repairs. Unlike general contractors who dabble in roofing, we focus exclusively on roof systems—that specialization shows in our ability to diagnose hidden structural issues after high winds.\n\nFor minor hail damage in Plano subdivisions, we often perform targeted shingle replacements using color-matched materials from local suppliers. In severe cases like the 2023 tornado near Reunion Tower, we handle complete emergency tarping and coordinate directly with insurance providers. Our crews carry manufacturer-certified training for all major synthetic underlayments and ice/water shield products proven in DFW's climate.",
+        "process": [
+          "Step 1: 24/7 emergency response with temporary leak stabilization",
+          "Step 2: Detailed damage documentation for insurance claims",
+          "Step 3: Structural assessment beyond visible surface damage",
+          "Step 4: Precision repairs using weather-matched materials"
+        ],
+        "benefits": [
+          "Local dispatch centers in Dallas and Fort Worth",
+          "Direct work with Allstate, State Farm and other regional adjusters",
+          "Wind mitigation techniques for future storm protection",
+          "No upfront payments when working with insurance"
+        ],
+        "faq": [
+          {
+            "question": "How soon can you respond after a major storm?",
+            "answer": "We prioritize by safety risk, with same-day emergency tarping for active leaks. Most assessments occur within 48 hours of contact."
+          },
+          {
+            "question": "What if my roof looks fine but I suspect damage?",
+            "answer": "We perform free inspections using telescoping cameras to check for lifted shingles or compromised seals not visible from the ground."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Durable solutions for DFW businesses from Deep Ellum cafes to Plano office parks.",
+        "description": "Dallas-Fort Worth's commercial properties face unique roofing challenges—from the flat roofs on Uptown high-rises to the sprawling warehouse districts near DFW Airport. We bring 12 years of specialized experience installing and maintaining commercial roofing systems that stand up to Texas' temperature swings and business demands.\n\nFor restaurants in Bishop Arts District, we install odor-resistant PVC membranes that handle kitchen exhaust. Tech campuses in Legacy West benefit from our cool roof installations that lower urban heat island effect. Every project includes after-hours and weekend work options to minimize business disruption, plus detailed warranty documentation for property managers.",
+        "process": [
+          "Step 1: Facility assessment including core cuts and moisture surveys",
+          "Step 2: System recommendation based on building use and DFW weather data",
+          "Step 3: Phased installation with noise/dust control measures",
+          "Step 4: Post-installation infrared scan to confirm integrity"
+        ],
+        "benefits": [
+          "Class A fire-rated systems for multi-tenant buildings",
+          "EnergyStar-rated materials for green building compliance",
+          "Custom maintenance plans with semi-annual inspections",
+          "24/7 leak response guarantees"
+        ],
+        "faq": [
+          {
+            "question": "What's the typical lifespan of a commercial roof in DFW?",
+            "Answer": "Depending on material, most last 15-30 years—but our maintenance programs can extend that by addressing minor issues before they escalate."
+          },
+          {
+            "question": "Can you work around our business hours?",
+            "answer": "Absolutely. We regularly schedule nighttime and weekend work for retail centers and office buildings."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "From the Craftsman bungalows near TCU to the ranch homes in River Oaks, Fort Worth residents trust us for roof replacements that blend historical charm with modern durability. We understand how the Trinity River valley's unique wind patterns require specialized flashing techniques, especially in older neighborhoods like Fairmount. Our team regularly works with Fort Worth's historic preservation commission to source appropriate materials for pre-war homes while meeting current energy codes.",
+        "localContext": "Fort Worth's mix of historic and mid-century homes needs roofing solutions that balance preservation with hail resistance.",
+        "nearbyAreas": [
+          "White Settlement",
+          "Benbrook",
+          "Sansom Park"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "Serving Plano since 2015, we know how HOA requirements in communities like Willow Bend and Deerfield affect roofing choices. The 1980s-90s homes throughout Collin County often need complete roof system upgrades—not just shingle replacements—due to outdated ventilation standards. We specialize in integrating modern synthetic underlayments and ridge vents while maintaining the clean lines Plano homeowners associations demand.",
+        "localContext": "Plano's established neighborhoods require roofs that meet strict aesthetic guidelines while withstanding summer storms.",
+        "nearbyAreas": [
+          "Murphy",
+          "Parker",
+          "Fairview"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "James T.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "When the hailstorm hit our Preston Hollow home last April, Eagle Shield had our roof tarped within hours—even though it was Sunday. Their detailed documentation helped us get full insurance coverage for the replacement. The crew took extra care around our antique clay roof tiles.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Lisa R.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "Our Deep Ellum music venue had chronic leaks until Eagle Shield installed a custom TPO system. They worked nights to avoid disrupting shows and trained our maintenance staff on simple inspections. Two Texas summers later—still bone dry inside.",
+        "date": "2025-01-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Dallas Roofing Contractors | Eagle Shield Roofing",
+        "description": "Trusted DFW roof replacement and repair specialists serving Dallas, Fort Worth, and surrounding cities since 2012."
+      },
+      "about": {
+        "title": "About Our Dallas Roofing Company",
+        "description": "Learn why North Texas families and businesses choose Eagle Shield Roofing for storm damage repairs and new installations."
+      },
+      "services": {
+        "title": "Roofing Services in Dallas-Fort Worth",
+        "description": "Complete residential and commercial roofing solutions tailored to North Texas weather and architectural styles."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
